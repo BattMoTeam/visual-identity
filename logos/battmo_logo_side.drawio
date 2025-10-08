@@ -1,0 +1,25 @@
+<mxfile host="65bd71144e">
+    <diagram id="IqMjbwwodc9X1cIcO6El" name="Page-1">
+        <mxGraphModel dx="1002" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=light-dark(#901f63, #ededed);fillColor=light-dark(#8c1e60, #ededed);shadow=1;shadowOpacity=30;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;strokeColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="40" width="440" height="440" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#eb7958, #ededed);shadow=1;shadowOffsetX=0;shadowOpacity=50;shadowOffsetY=0;shadowBlur=5;strokeColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="80" width="360" height="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#fce6a9, #ededed);shadow=1;strokeColor=none;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowOpacity=50;" vertex="1" parent="1">
+                    <mxGeometry x="165" y="125" width="270" height="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="shape=cross;whiteSpace=wrap;html=1;size=0.24526287921063386;fillColor=light-dark(#3a1245, #512d2b);strokeColor=light-dark(#000000, #d7817e);" vertex="1" parent="1">
+                    <mxGeometry x="245" y="205" width="110" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="BattMo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=314;fontFamily=Calibri;fontColor=light-dark(#3a1245, #ededed);" vertex="1" parent="1">
+                    <mxGeometry x="1040" y="245" width="60" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
